@@ -1,0 +1,17 @@
+{"id":0,"name":"未知系统"}
+{"id":1,"name":"所有系统"}
+{"id":2,"name":"Windows"}
+{"id":3,"name":"Windows Mobile"}
+{"id":4,"name":"Windows Server"}
+{"id":5,"name":"Linux"}
+{"id":6,"name":"Android"}
+{"id":7,"name":"Cisco IOS"}
+{"id":8,"name":"Apple iOS"}
+{"id":9,"name":"Mac OS X"}
+{"id":10,"name":"VxWorks"}
+{"id":11,"name":"embedded"}
+{"id":12,"name":"Huawei VRP"}
+{"id":13,"name":"H3C Comware"}
+{"id":14,"name":"VMware ESXi"}
+{"id":15,"name":"FreeBSD"}
+{"id":16,"name":"APC AOS"}

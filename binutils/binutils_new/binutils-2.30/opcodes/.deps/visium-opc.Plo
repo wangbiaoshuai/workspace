@@ -1,0 +1,6 @@
+visium-opc.lo: visium-opc.c ../include/ansidecl.h \
+ ../include/opcode/visium.h
+
+../include/ansidecl.h:
+
+../include/opcode/visium.h:
